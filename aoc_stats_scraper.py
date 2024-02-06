@@ -59,7 +59,7 @@ def collect_yearly_stats(years):
 
 
                 i -= 1
-                time.sleep(1)
+                time.sleep(3)
         
         # no spamming :) 
         time.sleep(2)
